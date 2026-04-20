@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Thermenstraße",
+      "postal_code": "8282",
+      "city": "Bad Loipersdorf",
+      "country": "Österreich",
+      "lat": "46.98300400560591",
+      "lng": "16.10994472883574"
     }
   }
 }
