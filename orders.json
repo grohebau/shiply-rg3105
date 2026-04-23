@@ -1,6 +1,6 @@
 {
   "SE428152750DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Daniel Fliege, Dientzenhoferstraße 28, 83098 Brannenburg, Deutschland",
     "receiver": "Michael Proschitz, Thermenstraße, 8282 Bad Loipersdorf, Österreich",
@@ -26,9 +26,9 @@
       }
     ],
     "orderDate": "20.04.2026",
-    "deliveryDate": "24.04.2026",
+    "deliveryDate": "27.04.2026, 16:30 Uhr",
     "pickup": {
-      "street": "Hegenheimer Str. 15",
+      "street": "Am Rheinpark 1",
       "postal_code": "79576",
       "city": "Weil am Rhein",
       "country": "Deutschland",
